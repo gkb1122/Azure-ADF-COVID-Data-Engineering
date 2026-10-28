@@ -125,5 +125,3 @@ This project demonstrates practical experience with:
 ## ⚠️ Disclaimer
 
 This repository contains sanitized example configuration. It is not guaranteed to deploy without modification. Resource names, parameters, linked-template references, credentials, and Azure permissions must be configured for the target environment.
-
-Aspiring Data Engineer | Azure Data Engineering | Data Pipelines | Cloud Infrastructure
